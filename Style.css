@@ -1,0 +1,47 @@
+style.css
+
+header {
+        background: #BBBBBB;
+        padding: 20px 0;
+}
+
+nav {
+        position: absolute;
+        top: 110px;
+        right: 0;
+}
+
+nav li {
+        display: inline;
+        margin: 0 0 0 15px;
+}
+
+nav a {
+         text-transform: uppercase;
+         color: #000000;
+         font-weight: bold;
+         font-size: 22px;
+         text-decoration: none;
+}
+
+nav a:hover {
+        color: #C78C19;
+        text_decoration: underline;
+}
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+.titulo-centralizado {
+        text-align: center;
+}
+
+h2 {
+    display: block;
+    font-size: 30px;
+
+  } 
+p {
+        text-alig: center:
+        display: block;
+} 
